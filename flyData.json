@@ -2,66 +2,173 @@
   {
     "name": "Parachute Adams",
     "type": "Dry Fly",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/parachute-adams.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/parachute-adams.jpg",
+    "hook": "Dry Fly Hook #12–18",
+    "materials": [
+      "Thread: Gray 8/0",
+      "Tail: Mixed grizzly and brown hackle fibers",
+      "Body: Adams gray dubbing",
+      "Wing Post: White calf body hair or synthetic",
+      "Hackle: Grizzly and brown dry fly hackle"
+    ]
   },
   {
     "name": "Elk Hair Caddis",
     "type": "Dry Fly",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/elk-hair-caddis.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/elk-hair-caddis.jpg",
+    "hook": "Dry Fly Hook #12–18",
+    "materials": [
+      "Thread: Tan 8/0",
+      "Body: Tan or olive dry fly dubbing",
+      "Rib: Fine gold wire",
+      "Hackle: Brown or ginger dry fly hackle",
+      "Wing: Natural elk hair"
+    ]
   },
   {
     "name": "Gold Ribbed Hare's Ear",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/gold-ribbed-hares-ear-nymph.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/gold-ribbed-hares-ear-nymph.jpg",
+    "hook": "Nymph Hook #12–18",
+    "materials": [
+      "Thread: Brown or black 8/0",
+      "Tail: Hare's mask fibers",
+      "Body: Hare's ear dubbing",
+      "Rib: Fine gold wire",
+      "Wing Case: Turkey tail or pheasant tail",
+      "Thorax: Darker hare's ear dubbing"
+    ]
   },
   {
     "name": "Prince Nymph",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/prince-nymph.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/prince-nymph.jpg",
+    "hook": "Nymph Hook #12–16",
+    "materials": [
+      "Thread: Black 8/0",
+      "Tail: Brown goose biots",
+      "Body: Peacock herl",
+      "Rib: Fine gold wire",
+      "Wing: White goose biots",
+      "Hackle: Brown soft hackle or hen hackle"
+    ]
   },
   {
     "name": "Pheasant Tail Nymph",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/pheasant-tail-nymph.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/pheasant-tail-nymph.jpg",
+    "hook": "Nymph Hook #14–20",
+    "materials": [
+      "Thread: Brown 8/0",
+      "Tail: Pheasant tail fibers",
+      "Body: Pheasant tail fibers",
+      "Rib: Fine copper wire",
+      "Wing Case: Pheasant tail fibers",
+      "Thorax: Peacock herl"
+    ]
   },
   {
     "name": "Woolly Bugger",
     "type": "Streamer",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/woolly-bugger.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/woolly-bugger.jpg",
+    "hook": "Streamer Hook #6–10",
+    "materials": [
+      "Thread: Black or olive 6/0",
+      "Tail: Marabou (black, olive, or brown)",
+      "Body: Chenille (black, olive, brown)",
+      "Rib: Medium wire (copper or gold)",
+      "Hackle: Saddle hackle (palmered)"
+    ]
   },
   {
     "name": "Copper John",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/copper-john.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/copper-john.jpg",
+    "hook": "Nymph Hook #12–18",
+    "materials": [
+      "Thread: Brown 8/0",
+      "Tail: Goose biots",
+      "Body: Copper wire (brassie or small)",
+      "Wing Case: Flashback over peacock herl",
+      "Thorax: Peacock herl",
+      "Legs: Hen hackle fibers"
+    ]
   },
   {
     "name": "Griffiths Gnat",
     "type": "Dry Fly",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/griffiths-gnat.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/griffiths-gnat.jpg",
+    "hook": "Dry Fly Hook #18–22",
+    "materials": [
+      "Thread: Black 8/0",
+      "Body: Peacock herl",
+      "Hackle: Grizzly hackle (palmered)"
+    ]
   },
   {
     "name": "Baetis Nymph",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/baetis-nymph.png"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/baetis-nymph.png",
+    "hook": "Nymph Hook #16–20",
+    "materials": [
+      "Thread: Olive or brown 8/0",
+      "Tail: Pheasant tail fibers",
+      "Body: Olive or brown dubbing",
+      "Rib: Fine copper wire",
+      "Wing Case: Flash or pheasant tail",
+      "Thorax: Peacock herl or darker dubbing"
+    ]
   },
   {
     "name": "Olive Damsel",
     "type": "Streamer",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/olive-damsel.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/olive-damsel.jpg",
+    "hook": "Streamer Hook #8–12",
+    "materials": [
+      "Thread: Olive 6/0",
+      "Tail: Olive marabou",
+      "Body: Olive dubbing or chenille",
+      "Rib: Fine gold wire",
+      "Eyes: Bead chain or mono eyes",
+      "Hackle: Olive soft hackle (optional)"
+    ]
   },
   {
     "name": "Shuttlecock Buzzer",
     "type": "Emerger",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/shuttlecock-buzzer.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/shuttlecock-buzzer.jpg",
+    "hook": "Emerger Hook #14–18",
+    "materials": [
+      "Thread: Black or brown 8/0",
+      "Tail: None",
+      "Body: Stripped quill or natural dubbing",
+      "Thorax: Peacock herl or dubbing",
+      "Wing: CDC fibers"
+    ]
   },
   {
     "name": "CDC Emerger",
     "type": "Emerger",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/cdc-emerger.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/cdc-emerger.jpg",
+    "hook": "Emerger Hook #14–20",
+    "materials": [
+      "Thread: Brown or olive 8/0",
+      "Tail: Sparse fibers or shuck",
+      "Body: Olive or gray dubbing",
+      "Wing: CDC feathers",
+      "Thorax: Darker dubbing"
+    ]
   },
   {
     "name": "Yellow Owl CDC Emerger",
     "type": "Emerger",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/yellow-owl-cdc-emerger.png"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/yellow-owl-cdc-emerger.png",
+    "hook": "Emerger Hook #14–18",
+    "materials": [
+      "Thread: Yellow or cream 8/0",
+      "Body: Yellow dubbing",
+      "Wing: Natural CDC feathers",
+      "Thorax: Olive or brown dubbing"
+    ]
   }
 ]
