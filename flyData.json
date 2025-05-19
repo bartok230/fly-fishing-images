@@ -1,126 +1,44 @@
 [
   {
-    "name": "Parachute Adams",
-    "type": "Dry Fly",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/parachute-adams.jpg"
-  },
-  {
-    "name": "Woolly Bugger",
-    "type": "Streamer",
-    "species": [
-      "Trout",
-      "Bass"
-    ],
-    "image": "images/woolly-bugger.jpg"
+    "name": "Copper John",
+    "type": "Nymph",
+    "species": ["Trout"],
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/copper-john.jpg"
   },
   {
     "name": "Elk Hair Caddis",
     "type": "Dry Fly",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/elk-hair-caddis.jpg"
+    "species": ["Trout"],
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/elk-hair-caddis.jpg"
+  },
+  {
+    "name": "Gold Ribbed Hare’s Ear",
+    "type": "Nymph",
+    "species": ["Trout", "Grayling"],
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/gold-ribbed-hares-ear-nymph.jpg"
+  },
+  {
+    "name": "Parachute Adams",
+    "type": "Dry Fly",
+    "species": ["Trout"],
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/parachute-adams.jpg"
   },
   {
     "name": "Pheasant Tail Nymph",
     "type": "Nymph",
-    "species": [
-      "Trout",
-      "Grayling"
-    ],
-    "image": "images/pheasant-tail-nymph.jpg"
-  },
-  {
-    "name": "Royal Wulff",
-    "type": "Dry Fly",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/royal-wulff.jpg"
-  },
-  {
-    "name": "Adams Irresistible",
-    "type": "Dry Fly",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/adams-irresistible.jpg"
-  },
-  {
-    "name": "Blue Wing Olive",
-    "type": "Dry Fly",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/blue-wing-olive.jpg"
-  },
-  {
-    "name": "Griffith\u2019s Gnat",
-    "type": "Dry Fly",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/griffiths-gnat.jpg"
-  },
-  {
-    "name": "Gold Ribbed Hare\u2019s Ear",
-    "type": "Nymph",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/gold-ribbed-hares-ear.jpg"
+    "species": ["Trout", "Grayling"],
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/pheasant-tail-nymph.jpg"
   },
   {
     "name": "Prince Nymph",
     "type": "Nymph",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/prince-nymph.jpg"
+    "species": ["Trout"],
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/prince-nymph.jpg"
   },
   {
-    "name": "Zebra Midge",
-    "type": "Nymph",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/zebra-midge.jpg"
-  },
-  {
-    "name": "Stimulator",
-    "type": "Dry Fly",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/stimulator.jpg"
-  },
-  {
-    "name": "Black Ghost",
+    "name": "Woolly Bugger",
     "type": "Streamer",
-    "species": [
-      "Trout",
-      "Salmon"
-    ],
-    "image": "images/black-ghost.jpg"
-  },
-  {
-    "name": "Copper John",
-    "type": "Nymph",
-    "species": [
-      "Trout"
-    ],
-    "image": "images/copper-john.jpg"
-  },
-  {
-    "name": "Clouser Minnow",
-    "type": "Streamer",
-    "species": [
-      "Bass",
-      "Pike"
-    ],
-    "image": "images/clouser-minnow.jpg"
+    "species": ["Trout", "Bass"],
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/woolly-bugger.jpg"
   }
 ]
