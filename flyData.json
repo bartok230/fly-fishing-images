@@ -2,7 +2,7 @@
   {
     "name": "Parachute Adams",
     "type": "Dry Fly",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/parachute-adams.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/parachute-adams.jpg",
     "hook": "Dry Fly Hook #12–18",
     "materials": [
       "Thread: Gray 8/0",
@@ -15,7 +15,7 @@
   {
     "name": "Elk Hair Caddis",
     "type": "Dry Fly",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/elk-hair-caddis.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/elk-hair-caddis.jpg",
     "hook": "Dry Fly Hook #12–18",
     "materials": [
       "Thread: Tan 8/0",
@@ -28,7 +28,7 @@
   {
     "name": "Gold Ribbed Hare's Ear",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/gold-ribbed-hares-ear-nymph.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/gold-ribbed-hares-ear-nymph.jpg",
     "hook": "Nymph Hook #12–18",
     "materials": [
       "Thread: Brown or black 8/0",
@@ -42,7 +42,7 @@
   {
     "name": "Prince Nymph",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/prince-nymph.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/prince-nymph.jpg",
     "hook": "Nymph Hook #12–16",
     "materials": [
       "Thread: Black 8/0",
@@ -56,7 +56,7 @@
   {
     "name": "Pheasant Tail Nymph",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/pheasant-tail-nymph.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/pheasant-tail-nymph.jpg",
     "hook": "Nymph Hook #14–20",
     "materials": [
       "Thread: Brown 8/0",
@@ -70,7 +70,7 @@
   {
     "name": "Woolly Bugger",
     "type": "Streamer",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/woolly-bugger.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/woolly-bugger.jpg",
     "hook": "Streamer Hook #6–10",
     "materials": [
       "Thread: Black or olive 6/0",
@@ -83,7 +83,7 @@
   {
     "name": "Copper John",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/copper-john.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/copper-john.jpg",
     "hook": "Nymph Hook #12–18",
     "materials": [
       "Thread: Brown 8/0",
@@ -97,7 +97,7 @@
   {
     "name": "Griffiths Gnat",
     "type": "Dry Fly",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/griffiths-gnat.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/griffiths-gnat.jpg",
     "hook": "Dry Fly Hook #18–22",
     "materials": [
       "Thread: Black 8/0",
@@ -108,7 +108,7 @@
   {
     "name": "Baetis Nymph",
     "type": "Nymph",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/baetis-nymph.png",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/baetis-nymph.png",
     "hook": "Nymph Hook #16–20",
     "materials": [
       "Thread: Olive or brown 8/0",
@@ -122,7 +122,7 @@
   {
     "name": "Olive Damsel",
     "type": "Streamer",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/olive-damsel.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/olive-damsel.jpg",
     "hook": "Streamer Hook #8–12",
     "materials": [
       "Thread: Olive 6/0",
@@ -136,7 +136,7 @@
   {
     "name": "Shuttlecock Buzzer",
     "type": "Emerger",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/shuttlecock-buzzer.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/shuttlecock-buzzer.jpg",
     "hook": "Emerger Hook #14–18",
     "materials": [
       "Thread: Black or brown 8/0",
@@ -149,7 +149,7 @@
   {
     "name": "CDC Emerger",
     "type": "Emerger",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/cdc-emerger.jpg",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/cdc-emerger.jpg",
     "hook": "Emerger Hook #14–20",
     "materials": [
       "Thread: Brown or olive 8/0",
@@ -162,7 +162,7 @@
   {
     "name": "Yellow Owl CDC Emerger",
     "type": "Emerger",
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/yellow-owl-cdc-emerger.png",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/yellow-owl-cdc-emerger.png",
     "hook": "Emerger Hook #14–18",
     "materials": [
       "Thread: Yellow or cream 8/0",
