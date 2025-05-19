@@ -1,44 +1,67 @@
 [
   {
-    "name": "Copper John",
-    "type": "Nymph",
-    "species": ["Trout"],
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/copper-john.jpg"
+    "name": "Parachute Adams",
+    "type": "Dry Fly",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/parachute-adams.jpg"
   },
   {
     "name": "Elk Hair Caddis",
     "type": "Dry Fly",
-    "species": ["Trout"],
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/elk-hair-caddis.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/elk-hair-caddis.jpg"
   },
   {
-    "name": "Gold Ribbed Hare’s Ear",
+    "name": "Gold Ribbed Hare's Ear",
     "type": "Nymph",
-    "species": ["Trout", "Grayling"],
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/gold-ribbed-hares-ear-nymph.jpg"
-  },
-  {
-    "name": "Parachute Adams",
-    "type": "Dry Fly",
-    "species": ["Trout"],
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/parachute-adams.jpg"
-  },
-  {
-    "name": "Bead Head Pheasant Tail",
-    "type": "Nymph",
-    "species": ["Trout", "Grayling"],
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/pheasant-tail-nymph.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/gold-ribbed-hares-ear-nymph.jpg"
   },
   {
     "name": "Prince Nymph",
     "type": "Nymph",
-    "species": ["Trout"],
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/prince-nymph.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/prince-nymph.jpg"
+  },
+  {
+    "name": "Pheasant Tail Nymph",
+    "type": "Nymph",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/pheasant-tail-nymph.jpg"
   },
   {
     "name": "Woolly Bugger",
     "type": "Streamer",
-    "species": ["Trout", "Bass"],
-    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/images/woolly-bugger.jpg"
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/woolly-bugger.jpg"
+  },
+  {
+    "name": "Copper John",
+    "type": "Nymph",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/copper-john.jpg"
+  },
+  {
+    "name": "Griffiths Gnat",
+    "type": "Dry Fly",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/griffiths-gnat.jpg"
+  },
+  {
+    "name": "Baetis Nymph",
+    "type": "Nymph",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/baetis-nymph.png"
+  },
+  {
+    "name": "Olive Damsel",
+    "type": "Streamer",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/olive-damsel.jpg"
+  },
+  {
+    "name": "Shuttlecock Buzzer",
+    "type": "Emerger",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/shuttlecock-buzzer.jpg"
+  },
+  {
+    "name": "CDC Emerger",
+    "type": "Emerger",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/cdc-emerger.jpg"
+  },
+  {
+    "name": "Yellow Owl CDC Emerger",
+    "type": "Emerger",
+    "image": "https://raw.githubusercontent.com/bartok230/fly-fishing-images/main/yellow-owl-cdc-emerger.png"
   }
 ]
